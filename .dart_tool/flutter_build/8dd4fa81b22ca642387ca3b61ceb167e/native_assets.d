@@ -1,0 +1,1 @@
+ /Users/jebishanto/development/list-search/.dart_tool/flutter_build/8dd4fa81b22ca642387ca3b61ceb167e/native_assets.yaml: 
